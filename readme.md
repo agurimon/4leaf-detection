@@ -10,7 +10,8 @@
 * monai
 
 ## 학습
-train.ipynb
+1. oba.ipynb - 데이터증강
+2. train.ipynb
 
 ## tflite 변환
 torch_to_tflite.ipynb (코랩)
